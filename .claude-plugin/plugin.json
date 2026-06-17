@@ -1,0 +1,10 @@
+{
+  "name": "graph-review",
+  "description": "A scoped review suite that leverages evaluation and pool-review for broad and deep defect detection",
+  "version": "1.0.0",
+  "author": {
+    "name": "James Abney"
+  },
+  "repository": "",
+  "license": "UNLICENSED"
+}

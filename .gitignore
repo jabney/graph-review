@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+.local/
+
+# Working artifacts produced by /ev:evaluate at the working directory.
+# These are inspectable per-run output, not committed source.
+.ev-*
